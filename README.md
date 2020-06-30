@@ -1,3 +1,3 @@
 # sidewndr.github.io
-Website for Github Pages
+Website for personal Github Pages
 
